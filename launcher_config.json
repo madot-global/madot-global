@@ -10,6 +10,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 */
 {
 	"clientVersion": "13.20.13560",
+	"discordLink": "https://discord.gg/qZFrgJPF5y",
 	"launcherVersion": "1.0",
 	"replaceFolders": true,
 	"replaceFolderName": [
