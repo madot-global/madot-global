@@ -54,11 +54,11 @@
     },
     {
       "Path": "assets/appearances-68247fd68843f1b1adb0a198cfc439f325a196592cb843b7c3e99d9b7a46f315.dat",
-      "Checksum": "c2f610b13a8deca3aeee6ce67e017f20"
+      "Checksum": "d8f9eaaf177b1099631de34cfeb5cf89"
     },
     {
       "Path": "assets/appearances-68247fd68843f1b1adb0a198cfc439f325a196592cb843b7c3e99d9b7a46f315.dat-bak",
-      "Checksum": "e9def13446464caddd507ded6795ca45"
+      "Checksum": "d8f9eaaf177b1099631de34cfeb5cf89"
     },
     {
       "Path": "assets/catalog-content.json",
@@ -66,7 +66,7 @@
     },
     {
       "Path": "assets/catalog-content.json-bak",
-      "Checksum": "562b4a1b0bb67a2f1ebc8cf88b3872fd"
+      "Checksum": "d2311d7ae24456bccb8ba9ee72052855"
     },
     {
       "Path": "assets/map-60aefdee298b4d94752fbc242385f003102c5d97e164d7237dd1594172d833fe.dat",
@@ -29470,7 +29470,7 @@
     },
     {
       "Path": "log/client.log",
-      "Checksum": "351390590e252e5a8bbc902ab827c36a"
+      "Checksum": "3b14a2c2e467b12f59052871161be7c6"
     },
     {
       "Path": "minimap/minimapmarkers.bin",
@@ -30642,7 +30642,7 @@
     },
     {
       "Path": "minimap/Minimap_Color_32256_32000_7.png",
-      "Checksum": "9a33770e7c1fc802fa1e02d8590507d8"
+      "Checksum": "53acbe91f87212d418fe3b07f88343ef"
     },
     {
       "Path": "minimap/Minimap_Color_32256_32000_8.png",
@@ -30710,7 +30710,7 @@
     },
     {
       "Path": "minimap/Minimap_Color_32256_32256_8.png",
-      "Checksum": "f5b6471c5575ceae9b96b56a478f78a6"
+      "Checksum": "b8d301a1d40a6676b5289642a4de34a6"
     },
     {
       "Path": "minimap/Minimap_Color_32256_32256_9.png",
@@ -33218,11 +33218,11 @@
     },
     {
       "Path": "minimap/Minimap_Color_33536_32768_14.png",
-      "Checksum": "523fb65ac03b6f79bc18191eee0d05e2"
+      "Checksum": "295159f90cb22846f569f2489f4ca85a"
     },
     {
       "Path": "minimap/Minimap_Color_33536_32768_15.png",
-      "Checksum": "4743bace2363070307b889195cb00c91"
+      "Checksum": "5f4d105f28efc7f095b3f16c1b816fff"
     },
     {
       "Path": "minimap/Minimap_Color_33536_32768_2.png",
@@ -34862,7 +34862,7 @@
     },
     {
       "Path": "minimap/Minimap_WaypointCost_32256_32000_7.png",
-      "Checksum": "707cbddbc5bf700e7f5f8001a9dd5c59"
+      "Checksum": "f7d9ce2cb5487da52b3a777b25fa3351"
     },
     {
       "Path": "minimap/Minimap_WaypointCost_32256_32000_8.png",
@@ -34930,7 +34930,7 @@
     },
     {
       "Path": "minimap/Minimap_WaypointCost_32256_32256_8.png",
-      "Checksum": "9fb0790ea864acb6cb420f1103dae0b6"
+      "Checksum": "731d61429a72026711bec74772454ba3"
     },
     {
       "Path": "minimap/Minimap_WaypointCost_32256_32256_9.png",
@@ -37466,11 +37466,11 @@
     },
     {
       "Path": "minimap/Minimap_WaypointCost_33536_32768_14.png",
-      "Checksum": "9606b5c0a90eadc016ec5993b5da403f"
+      "Checksum": "9ed4b9ee93ca83ae9291423a635afaef"
     },
     {
       "Path": "minimap/Minimap_WaypointCost_33536_32768_15.png",
-      "Checksum": "c6701137ecaef9dc04e8b5c748b2c988"
+      "Checksum": "034456b9fc82f50a03af601827f87200"
     },
     {
       "Path": "minimap/Minimap_WaypointCost_33536_32768_2.png",
@@ -41814,7 +41814,7 @@
     },
     {
       "Path": "characterdata/268435954/sidebars.json",
-      "Checksum": "3f8126c935b3b88241808dd19d7f9c64"
+      "Checksum": "d80c3f443fc1cf7a38f7aa90c8ffa38c"
     },
     {
       "Path": "characterdata/268435954/statusBarData.json",
