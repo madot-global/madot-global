@@ -54,15 +54,15 @@
     },
     {
       "Path": "assets/appearances-68247fd68843f1b1adb0a198cfc439f325a196592cb843b7c3e99d9b7a46f315.dat",
-      "Checksum": "d8f9eaaf177b1099631de34cfeb5cf89"
+      "Checksum": "88066297ce9d119e7c8ae930bddffb33"
     },
     {
       "Path": "assets/appearances-68247fd68843f1b1adb0a198cfc439f325a196592cb843b7c3e99d9b7a46f315.dat-bak",
-      "Checksum": "d8f9eaaf177b1099631de34cfeb5cf89"
+      "Checksum": "864d3e1ec68c8bb4d19f7aaa501a2810"
     },
     {
       "Path": "assets/catalog-content.json",
-      "Checksum": "d2311d7ae24456bccb8ba9ee72052855"
+      "Checksum": "1182cd88799b9a0045e120a9ddae08ac"
     },
     {
       "Path": "assets/catalog-content.json-bak",
@@ -12063,6 +12063,10 @@
     {
       "Path": "assets/sprites-04174f0d627efbad08ba4ae46fcddd332bfd6c986d9159aa62c52fb813904768.bmp.lzma",
       "Checksum": "1aa665619c3bf2718a286aa3ea489e9e"
+    },
+    {
+      "Path": "assets/sprites-0444469525351ec76ddd47e29298672c49c38e7b6a5112e8d309ee08d012e6e3.bmp.lzma",
+      "Checksum": "fc2ba862306243597d9c29046744a9d3"
     },
     {
       "Path": "assets/sprites-04502c36de9be021b23dee4e1771c120d078972504b98c6ffe86548e340c873d.bmp.lzma",
